@@ -1,4 +1,4 @@
-package com.example.lifesync
+package com.example.lifesync.view
 
 import android.os.Bundle
 import com.google.android.material.bottomnavigation.BottomNavigationView
@@ -7,6 +7,7 @@ import androidx.navigation.findNavController
 import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
+import com.example.lifesync.R
 import com.example.lifesync.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
